@@ -2,10 +2,11 @@
 
 version: 1.0.0
 
-## Full Tutorial
+## First Create a database named registeration_db
+## Then click on import and move into the db folder and select users.sql and the click on go to import this table
+## Example 
+username:-Harish
+password:-Nandu@12
 
-[On Youtube](https://youtu.be/QxZxHUf7c_0)
+## This form contains all the three registeration, login and logout forms.
 
-## Authors
-
-[Elias Abdurrahman](https://github.com/eliasFsDev)
