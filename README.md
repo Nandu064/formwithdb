@@ -1,6 +1,5 @@
 # Complete User Login & Registration system using PHP and MySQL database
-
-version: 1.0.0
+# First download the folder and place in htdocs folder of xampp 
 
 ## First Create a database named registeration_db
 ## Then click on import and move into the db folder and select users.sql and the click on go to import this table
